@@ -1,0 +1,59 @@
+{
+  "name": "rick-and-morty-theme",
+  "displayName": "Rick and Morty Theme",
+  "description": "Wubba Lubba Dub Dub! A Rick and Morty themed VS Code experience with Portal Gun Dark & Citadel Light modes",
+  "version": "0.0.1",
+  "publisher": "interdimensional-cable",
+  "author": {
+    "name": "Interdimensional Cable"
+  },
+  "license": "MIT",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/interdimensional-cable/rick-and-morty-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/interdimensional-cable/rick-and-morty-theme/issues"
+  },
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "rick and morty",
+    "theme",
+    "dark theme",
+    "light theme",
+    "wubba lubba dub dub",
+    "portal gun",
+    "science",
+    "green",
+    "blue",
+    "morty",
+    "rick sanchez",
+    "adult swim",
+    "cartoon",
+    "fun"
+  ],
+  "galleryBanner": {
+    "color": "#0d1b0d",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Portal Gun Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Portal Gun Dark-color-theme.json"
+      },
+      {
+        "label": "Citadel Light",
+        "uiTheme": "vs",
+        "path": "./themes/Citadel Light-color-theme.json"
+      }
+    ]
+  }
+}
