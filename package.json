@@ -3,18 +3,18 @@
   "displayName": "Rick and Morty Theme",
   "description": "Wubba Lubba Dub Dub! A Rick and Morty themed VS Code experience with Portal Gun Dark & Citadel Light modes",
   "version": "0.0.1",
-  "publisher": "interdimensional-cable",
+  "publisher": "idf-studio",
   "author": {
-    "name": "Interdimensional Cable"
+    "name": "iDF Studio"
   },
   "license": "MIT",
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/interdimensional-cable/rick-and-morty-theme"
+    "url": "https://github.com/ivandf/rick-and-morty-theme"
   },
   "bugs": {
-    "url": "https://github.com/interdimensional-cable/rick-and-morty-theme/issues"
+    "url": "https://github.com/ivandf-cable/rick-and-morty-theme/issues"
   },
   "engines": {
     "vscode": "^1.109.0"
