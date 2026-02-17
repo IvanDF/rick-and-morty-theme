@@ -1,6 +1,6 @@
 # 🔬 Rick and Morty Theme - Wubba Lubba Dub Dub!
 
-![Version](https://img.shields.io/badge/version-0.5.0-5ce65c.svg?style=flat-square)
+![Version](https://img.shields.io/badge/version-0.6.0-5ce65c.svg?style=flat-square)
 ![Theme](https://img.shields.io/badge/themes-2-00d4ff.svg?style=flat-square)
 
 > _"Listen Morty, I'm gonna need you to take these themes and shove them way up inside your VS Code, Morty! Waaaaay up inside there!"_ - Rick Sanchez (probably)
