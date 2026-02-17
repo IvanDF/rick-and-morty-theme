@@ -2,7 +2,7 @@
   "name": "rick-and-morty-theme",
   "displayName": "Rick and Morty Theme",
   "description": "Wubba Lubba Dub Dub! A Rick and Morty themed VS Code experience with Portal Gun Dark & Citadel Light modes",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "publisher": "idf-studio",
   "author": {
     "name": "iDF Studio"
