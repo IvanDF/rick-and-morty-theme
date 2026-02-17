@@ -14,6 +14,8 @@ A scientifically accurate, interdimensionally tested VS Code theme inspired by t
 
 ### 🌌 Portal Gun Dark
 
+![Portal Gun Dark theme](./assets/screenshot-dark.png "Portal Gun Dark")
+
 _"That's my one-armed man, Morty. I'm not letting this theme go."_
 
 The signature dark theme with colors extracted from actual portal gun fluid (scientifically verified across 137 dimensions):
@@ -27,6 +29,8 @@ The signature dark theme with colors extracted from actual portal gun fluid (sci
 
 ### ☀️ Citadel Light
 
+![Portal Gun Light theme](./assets/screenshot-light.png "Portal Gun Light")
+
 _"Welcome to the Citadel of Ricks. Where all Ricks are successful."_
 
 Professional light theme for when you're working at the Citadel:
@@ -37,30 +41,6 @@ Professional light theme for when you're working at the Citadel:
 | **Council Blue**   | `#0088cc` | The Council of Ricks approved color |
 | **Szechuan Sauce** | `#f57f17` | Worth waiting 9 seasons for         |
 | **Evil Morty Red** | `#d32f2f` | For code that plots against you     |
-
----
-
-## ✨ Installation
-
-### Quick Install
-
-1. Open VS Code
-2. Go to Extensions (`Cmd+Shift+X` / `Ctrl+Shift+X`)
-3. Search for **"Rick and Morty Theme"**
-4. Click Install
-5. `Cmd+K Cmd+T` / `Ctrl+K Ctrl+T` → Select your theme!
-
-### Manual Install
-
-```bash
-# Clone the repo
-git clone https://github.com/ivandf/rick-and-morty-theme
-
-# Copy to extensions folder
-cp -r rick-and-morty-theme ~/.vscode/extensions/
-
-# Reload VS Code and select the theme!
-```
 
 ---
 
@@ -155,131 +135,6 @@ For the **ultimate Rick and Morty coding experience**, add these to your `settin
   "files.insertFinalNewline": true
 }
 ```
-
----
-
-## 🥚 Easter Eggs & Hidden References
-
-The theme is **packed** with references! Open the theme JSON files to discover them all:
-
-### 🎭 Token Color Names
-
-Every syntax element has a Rick and Morty reference:
-
-| Code Element      | Easter Egg Name          | Reference                    |
-| ----------------- | ------------------------ | ---------------------------- |
-| Comments          | "Wubba Lubba Dub Dub"    | Rick's catchphrase           |
-| Strings           | "Portal Fluid"           | Green portal goo             |
-| Numbers           | "Dimension C-137"        | Rick's home dimension        |
-| Booleans          | "True Morty"             | The one true Morty           |
-| Constants         | "Plumbus"                | Everyone has one             |
-| Variables         | "Morty's Mind"           | Simple but effective         |
-| Special Variables | "Mr. Meeseeks"           | Blue and helpful             |
-| Keywords          | "Rick's Catchphrase"     | Iconic and bold              |
-| Operators         | "Portal Gun Trigger"     | Makes things happen          |
-| Functions         | "Interdimensional Cable" | Broadcasts across dimensions |
-| Classes           | "Citadel of Ricks"       | Where Ricks gather           |
-| Interfaces        | "Council of Ricks"       | The governing body           |
-| Types             | "Mega Seed"              | Type definitions             |
-| Tags              | "Get Schwifty"           | Time to get coding           |
-| Attributes        | "Pickle Rick"            | The funniest thing ever      |
-| Properties        | "Szechuan Sauce"         | McDonald's legendary sauce   |
-| Support           | "Butthole Ice Cream"     | From Anatomy Park            |
-| Punctuation       | "Burp"                   | _burp_                       |
-| Meta              | "Microverse Battery"     | Powering your code           |
-| Invalid Code      | "Evil Morty"             | Something's plotting         |
-| Deprecated        | "Bird Person"            | Rest in peace                |
-| Insertions        | "Get Schwifty"           | Added code                   |
-| Deletions         | "Show Me What You Got"   | Removed code                 |
-| Headings          | "Council Announcement"   | Important!                   |
-| Bold              | "Squanchy"               | Bold and squanchy            |
-| Italic            | "Noob Noob"              | _God damn!_                  |
-| Links             | "Portal"                 | Jump through dimensions      |
-| Quotes            | "Get Schwifty Lyrics"    | Quoted text                  |
-| Code Blocks       | "Zigerion Simulation"    | Fake reality                 |
-| JSON Keys         | "Simple Rick's Wafer"    | Sweet data                   |
-| CSS Classes       | "Anatomy Park"           | Style park                   |
-| CSS IDs           | "Mr. Poopybutthole"      | Unique identifier            |
-| CSS Properties    | "Kalaxian Crystals"      | Styling power                |
-| Python self       | "Tiny Rick"              | Let me out!                  |
-| Python Decorators | "Unity Hivemind"         | Collective enhancement       |
-| Regex             | "Cronenberg World"       | Pattern matching chaos       |
-| Escape Characters | "Portal Escape"          | Breaking out                 |
-
-### 🎯 Secret Combinations
-
-Try typing these in your code to see the colors in action:
-
-```javascript
-// The Sacred Trinity
-const WUBBA = "Wubba";
-const LUBBA = "Lubba";
-const DUB_DUB = "Dub Dub";
-
-// Dimension jumper
-function portalGun(dimension = 137) {
-  return `C-${dimension}`;
-}
-
-// The Plumbus Protocol
-class Plumbus {
-  constructor() {
-    this.fleeb = "rubbed";
-    this.schleem = "repurposed";
-  }
-}
-
-// Mr. Meeseeks Box
-const summonMeeseeks = () => "I'm Mr. Meeseeks, look at me!";
-
-// Pickle Rick transformation
-if (scientist === "Rick") {
-  transform("pickle"); // Funniest shit ever
-}
-```
-
----
-
-## 🎓 Pro Tips for Maximum Rick Energy
-
-### 1. **Use Multiple Cursors** (Multiverse You)
-
-- `Cmd+D` / `Ctrl+D` - Select next occurrence (multiple Mortys)
-- `Cmd+Shift+L` / `Ctrl+Shift+L` - Select all occurrences (infinite Mortys)
-
-### 2. **Split Editor** (Portal to Another Screen)
-
-- `Cmd+\` / `Ctrl+\` - Split editor (open portal)
-- Navigate between splits like jumping dimensions
-
-### 3. **Zen Mode** (Pocket Dimension)
-
-- `Cmd+K Z` / `Ctrl+K Z` - Zen mode (escape to your own dimension)
-
-### 4. **Custom Snippets** (Rick's Inventions)
-
-Create custom snippets in your language:
-
-```json
-// In JavaScript snippets
-{
-  "Portal Gun": {
-    "prefix": "portal",
-    "body": [
-      "function openPortal(dimension = 'C-137') {",
-      "  console.log(`Traveling to dimension ${dimension}`);",
-      "  return new Portal(dimension);",
-      "}"
-    ]
-  },
-  "Wubba Lubba Dub Dub": {
-    "prefix": "wubba",
-    "body": ["// Wubba Lubba Dub Dub!", "$1"]
-  }
-}
-```
-
----
 
 ## 🎬 Complete Settings Example
 

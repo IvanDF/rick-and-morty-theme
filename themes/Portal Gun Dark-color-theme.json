@@ -461,10 +461,7 @@
   "tokenColors": [
     {
       "name": "Comment - Wubba Lubba Dub Dub!",
-      "scope": [
-        "comment",
-        "punctuation.definition.comment"
-      ],
+      "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#7a9d7a"
@@ -472,30 +469,21 @@
     },
     {
       "name": "String - Portal Fluid",
-      "scope": [
-        "string",
-        "string.quoted",
-        "string.template"
-      ],
+      "scope": ["string", "string.quoted", "string.template"],
       "settings": {
         "foreground": "#ffd54f"
       }
     },
     {
       "name": "Number - Dimension C-137",
-      "scope": [
-        "constant.numeric",
-        "constant.language"
-      ],
+      "scope": ["constant.numeric", "constant.language"],
       "settings": {
         "foreground": "#ff6b6b"
       }
     },
     {
       "name": "Boolean - True Morty",
-      "scope": [
-        "constant.language.boolean"
-      ],
+      "scope": ["constant.language.boolean"],
       "settings": {
         "foreground": "#ff6b6b",
         "fontStyle": "bold"
@@ -503,31 +491,21 @@
     },
     {
       "name": "Constant - Plumbus",
-      "scope": [
-        "constant.other",
-        "constant.character"
-      ],
+      "scope": ["constant.other", "constant.character"],
       "settings": {
         "foreground": "#ff6b6b"
       }
     },
     {
       "name": "Variable - Morty's Mind",
-      "scope": [
-        "variable",
-        "variable.other.readwrite",
-        "variable.parameter"
-      ],
+      "scope": ["variable", "variable.other.readwrite", "variable.parameter"],
       "settings": {
         "foreground": "#e8f5e9"
       }
     },
     {
       "name": "Variable Special - Mr. Meeseeks",
-      "scope": [
-        "variable.language",
-        "variable.other.constant"
-      ],
+      "scope": ["variable.language", "variable.other.constant"],
       "settings": {
         "foreground": "#00d4ff",
         "fontStyle": "italic"
@@ -535,11 +513,7 @@
     },
     {
       "name": "Keyword - Rick's Catchphrase",
-      "scope": [
-        "keyword",
-        "storage.type",
-        "storage.modifier"
-      ],
+      "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
         "foreground": "#ff6b6b",
         "fontStyle": "bold"
@@ -559,10 +533,7 @@
     },
     {
       "name": "Function - Interdimensional Cable",
-      "scope": [
-        "entity.name.function",
-        "support.function"
-      ],
+      "scope": ["entity.name.function", "support.function"],
       "settings": {
         "foreground": "#00d4ff",
         "fontStyle": ""
@@ -570,11 +541,7 @@
     },
     {
       "name": "Class - Citadel of Ricks",
-      "scope": [
-        "entity.name.class",
-        "entity.name.type.class",
-        "support.class"
-      ],
+      "scope": ["entity.name.class", "entity.name.type.class", "support.class"],
       "settings": {
         "foreground": "#ffd54f",
         "fontStyle": "bold"
@@ -582,9 +549,7 @@
     },
     {
       "name": "Interface - Council of Ricks",
-      "scope": [
-        "entity.name.type.interface"
-      ],
+      "scope": ["entity.name.type.interface"],
       "settings": {
         "foreground": "#00d4ff",
         "fontStyle": "italic"
@@ -592,29 +557,21 @@
     },
     {
       "name": "Type - Mega Seed",
-      "scope": [
-        "entity.name.type",
-        "support.type"
-      ],
+      "scope": ["entity.name.type", "support.type"],
       "settings": {
         "foreground": "#00d4ff"
       }
     },
     {
       "name": "Tag - Get Schwifty",
-      "scope": [
-        "entity.name.tag",
-        "meta.tag"
-      ],
+      "scope": ["entity.name.tag", "meta.tag"],
       "settings": {
         "foreground": "#ff6b6b"
       }
     },
     {
       "name": "Attribute - Pickle Rick",
-      "scope": [
-        "entity.other.attribute-name"
-      ],
+      "scope": ["entity.other.attribute-name"],
       "settings": {
         "foreground": "#5ce65c",
         "fontStyle": "italic"
@@ -622,50 +579,35 @@
     },
     {
       "name": "Property - Szechuan Sauce",
-      "scope": [
-        "variable.other.property",
-        "support.variable.property"
-      ],
+      "scope": ["variable.other.property", "support.variable.property"],
       "settings": {
         "foreground": "#81c784"
       }
     },
     {
       "name": "Support - Butthole Ice Cream",
-      "scope": [
-        "support.constant",
-        "support.variable"
-      ],
+      "scope": ["support.constant", "support.variable"],
       "settings": {
         "foreground": "#00d4ff"
       }
     },
     {
       "name": "Punctuation - Burp",
-      "scope": [
-        "punctuation"
-      ],
+      "scope": ["punctuation"],
       "settings": {
         "foreground": "#81c784"
       }
     },
     {
       "name": "Meta - Microverse Battery",
-      "scope": [
-        "meta.brace",
-        "meta.block",
-        "punctuation.definition.block"
-      ],
+      "scope": ["meta.brace", "meta.block", "punctuation.definition.block"],
       "settings": {
         "foreground": "#81c784"
       }
     },
     {
       "name": "Invalid - Evil Morty",
-      "scope": [
-        "invalid",
-        "invalid.illegal"
-      ],
+      "scope": ["invalid", "invalid.illegal"],
       "settings": {
         "foreground": "#ffffff",
         "background": "#ff6b6b"
@@ -673,37 +615,28 @@
     },
     {
       "name": "Deprecated - Bird Person",
-      "scope": [
-        "invalid.deprecated"
-      ],
+      "scope": ["invalid.deprecated"],
       "settings": {
-        "foreground": "#ffffff",
+        "foreground": "#ffffff"
       }
     },
     {
       "name": "Diff Insertion - Get Schwifty",
-      "scope": [
-        "markup.inserted"
-      ],
+      "scope": ["markup.inserted"],
       "settings": {
         "foreground": "#5ce65c"
       }
     },
     {
       "name": "Diff Deletion - Show Me What You Got",
-      "scope": [
-        "markup.deleted"
-      ],
+      "scope": ["markup.deleted"],
       "settings": {
         "foreground": "#ff6b6b"
       }
     },
     {
       "name": "Markup Heading - Council Announcement",
-      "scope": [
-        "markup.heading",
-        "entity.name.section"
-      ],
+      "scope": ["markup.heading", "entity.name.section"],
       "settings": {
         "foreground": "#5ce65c",
         "fontStyle": "bold"
@@ -711,9 +644,7 @@
     },
     {
       "name": "Markup Bold - Squanchy",
-      "scope": [
-        "markup.bold"
-      ],
+      "scope": ["markup.bold"],
       "settings": {
         "foreground": "#ff6b6b",
         "fontStyle": "bold"
@@ -721,9 +652,7 @@
     },
     {
       "name": "Markup Italic - Noob Noob",
-      "scope": [
-        "markup.italic"
-      ],
+      "scope": ["markup.italic"],
       "settings": {
         "foreground": "#00d4ff",
         "fontStyle": "italic"
@@ -731,10 +660,7 @@
     },
     {
       "name": "Markup Link - Portal",
-      "scope": [
-        "markup.underline.link",
-        "string.other.link"
-      ],
+      "scope": ["markup.underline.link", "string.other.link"],
       "settings": {
         "foreground": "#00d4ff",
         "fontStyle": "underline"
@@ -742,9 +668,7 @@
     },
     {
       "name": "Markup Quote - Get Schwifty Lyrics",
-      "scope": [
-        "markup.quote"
-      ],
+      "scope": ["markup.quote"],
       "settings": {
         "foreground": "#66bb6a",
         "fontStyle": "italic"
@@ -752,64 +676,49 @@
     },
     {
       "name": "Markup Code - Zigerion Simulation",
-      "scope": [
-        "markup.inline.raw",
-        "markup.fenced_code"
-      ],
+      "scope": ["markup.inline.raw", "markup.fenced_code"],
       "settings": {
         "foreground": "#ffd54f"
       }
     },
     {
       "name": "JSON Key - Simple Rick's Wafer",
-      "scope": [
-        "support.type.property-name.json"
-      ],
+      "scope": ["support.type.property-name.json"],
       "settings": {
         "foreground": "#5ce65c"
       }
     },
     {
       "name": "CSS Class - Anatomy Park",
-      "scope": [
-        "entity.other.attribute-name.class.css"
-      ],
+      "scope": ["entity.other.attribute-name.class.css"],
       "settings": {
         "foreground": "#ffd54f"
       }
     },
     {
       "name": "CSS ID - Mr. Poopybutthole",
-      "scope": [
-        "entity.other.attribute-name.id.css"
-      ],
+      "scope": ["entity.other.attribute-name.id.css"],
       "settings": {
         "foreground": "#00d4ff"
       }
     },
     {
       "name": "CSS Property - Kalaxian Crystals",
-      "scope": [
-        "support.type.property-name.css"
-      ],
+      "scope": ["support.type.property-name.css"],
       "settings": {
         "foreground": "#81c784"
       }
     },
     {
       "name": "CSS Value - Fleeb Juice",
-      "scope": [
-        "support.constant.property-value.css"
-      ],
+      "scope": ["support.constant.property-value.css"],
       "settings": {
         "foreground": "#ffd54f"
       }
     },
     {
       "name": "Python Self - Tiny Rick",
-      "scope": [
-        "variable.language.special.self.python"
-      ],
+      "scope": ["variable.language.special.self.python"],
       "settings": {
         "foreground": "#ff6b6b",
         "fontStyle": "italic"
@@ -817,27 +726,21 @@
     },
     {
       "name": "Python Decorator - Unity Hivemind",
-      "scope": [
-        "entity.name.function.decorator.python"
-      ],
+      "scope": ["entity.name.function.decorator.python"],
       "settings": {
         "foreground": "#5ce65c"
       }
     },
     {
       "name": "Regex - Cronenberg World",
-      "scope": [
-        "string.regexp"
-      ],
+      "scope": ["string.regexp"],
       "settings": {
         "foreground": "#ff6b6b"
       }
     },
     {
       "name": "Escape Character - Portal Escape",
-      "scope": [
-        "constant.character.escape"
-      ],
+      "scope": ["constant.character.escape"],
       "settings": {
         "foreground": "#00d4ff",
         "fontStyle": "bold"
