@@ -19,27 +19,13 @@ _"That's my one-armed man, Morty. I'm not letting this theme go."_
 
 The signature dark theme with colors extracted from actual portal gun fluid (scientifically verified across 137 dimensions):
 
-| Element               | Color     | Reference                                     |
-| --------------------- | --------- | --------------------------------------------- |
-| **Portal Glow**       | `#5ce65c` | The iconic Rick green from portal fluid       |
-| **Mr. Meeseeks Blue** | `#00d4ff` | "Look at me! I'm your function color!"        |
-| **Mega Seeds Yellow** | `#ffd54f` | Those seeds from the Mega Trees (for strings) |
-| **Rick's Flask Red**  | `#ff6b6b` | Errors taste like alcoholism                  |
-
 ### ☀️ Citadel Light
 
 ![Portal Gun Light theme](./assets/screenshot-light.png "Portal Gun Light")
 
 _"Welcome to the Citadel of Ricks. Where all Ricks are successful."_
 
-Professional light theme for when you're working at the Citadel:
-
-| Element            | Color     | Reference                           |
-| ------------------ | --------- | ----------------------------------- |
-| **Citadel Green**  | `#2e7d32` | Professional Rick business          |
-| **Council Blue**   | `#0088cc` | The Council of Ricks approved color |
-| **Szechuan Sauce** | `#f57f17` | Worth waiting 9 seasons for         |
-| **Evil Morty Red** | `#d32f2f` | For code that plots against you     |
+Professional light theme for when you're working at the Citadel
 
 ---
 
