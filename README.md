@@ -1,8 +1,7 @@
 # 🔬 Rick and Morty Theme - Wubba Lubba Dub Dub!
 
-![Version](https://img.shields.io/badge/version-0.0.1-5ce65c.svg?style=flat-square)
+![Version](https://img.shields.io/badge/version-0.5.0-5ce65c.svg?style=flat-square)
 ![Theme](https://img.shields.io/badge/themes-2-00d4ff.svg?style=flat-square)
-![Easter_Eggs](https://img.shields.io/badge/easter_eggs-137-ffd54f.svg?style=flat-square)
 
 > _"Listen Morty, I'm gonna need you to take these themes and shove them way up inside your VS Code, Morty! Waaaaay up inside there!"_ - Rick Sanchez (probably)
 
@@ -284,6 +283,8 @@ If this theme makes you smile:
 ---
 
 <p align="center">
+  <br>
+  <br>
   <strong>🔬 "And that's the waaaaay the news goes!" 🔬</strong>
   <br><br>
   <em>Now get back to coding, Morty! We got adventures to code!</em>
@@ -291,20 +292,7 @@ If this theme makes you smile:
   Made with 💚 and interdimensional portal fluid
   <br>
   <sub>Tested across 137 dimensions | 0% alcohol content (unlike Rick)</sub>
+  <br>
+  <br>
+  <b>Wubba Lubba Dub Dub! 🔬✨</b>
 </p>
-
----
-
-## 🎪 Fun Facts
-
-- The theme contains exactly **137** hand-picked color values (C-137 reference)
-- Portal Gun Dark has **849** lines of JSON (one for each episode... someday)
-- Every color was tested in multiple dimensions (at least 3 monitors)
-- The green `#5ce65c` matches the RGB values of actual portal screenshots
-- "Wubba Lubba Dub Dub" appears **42** times in the codebase (coincidence?)
-
-**Remember:** _"Nobody exists on purpose, nobody belongs anywhere, everybody's gonna die. Come code with this theme."_
-
----
-
-**Wubba Lubba Dub Dub!** 🔬✨
