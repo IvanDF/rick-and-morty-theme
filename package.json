@@ -13,6 +13,7 @@
     "type": "git",
     "url": "https://github.com/ivandf/rick-and-morty-theme"
   },
+  "homepage": "https://idf-hub.vercel.app",
   "bugs": {
     "url": "https://github.com/ivandf-cable/rick-and-morty-theme/issues"
   },
