@@ -7,7 +7,7 @@
   "author": {
     "name": "iDF Studio"
   },
-  "license": "MIT",
+"license": "MIT",
   "icon": "icon.png",
   "repository": {
     "type": "git",
@@ -58,11 +58,9 @@
     ]
   },
   "scripts": {
-    "vscode:prepublish": "npm run compile",
-    "compile": "tsc -p ./",
-    "watch": "tsc -watch -p ./"
+    "package": "vsce package"
   },
   "devDependencies": {
-    "typescript": "^5.0.0"
+    "vsce": "^1.97.0"
   }
 }
