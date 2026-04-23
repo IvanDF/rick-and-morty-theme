@@ -7,7 +7,7 @@
   "author": {
     "name": "iDF Studio"
   },
-"license": "MIT",
+  "license": "MIT",
   "icon": "icon.png",
   "repository": {
     "type": "git",
