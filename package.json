@@ -11,11 +11,11 @@
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ivandf/rick-and-morty-theme"
+    "url": "https://github.com/ivandf/rick-and-morty-theme.git"
   },
   "homepage": "https://idf-hub.vercel.app",
   "bugs": {
-    "url": "https://github.com/ivandf-cable/rick-and-morty-theme/issues"
+    "url": "https://github.com/ivandf/rick-and-morty-theme/issues"
   },
   "engines": {
     "vscode": "^1.109.0"
